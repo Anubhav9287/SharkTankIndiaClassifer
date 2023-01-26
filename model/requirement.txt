@@ -1,0 +1,3 @@
+Pywavelets==1.4.1
+opencv-python==4.7.0.68
+seaborn==0.8.1
